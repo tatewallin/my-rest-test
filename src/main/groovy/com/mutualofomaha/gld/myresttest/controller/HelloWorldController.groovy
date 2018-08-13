@@ -32,7 +32,7 @@ class HelloWorldController {
     @RequestMapping(value = "/testUSER", method = RequestMethod.GET)
     @ApiOperation(value="Used to test SecurityConfiguration")
     String helloTest3(HttpServletRequest request) {
-        return "All user should have access"
+        return "ADMIN and USER role users should have access"
     }
 
     @RequestMapping(value = "/testADMIN", method = RequestMethod.GET)

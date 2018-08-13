@@ -29,9 +29,7 @@ class SecurityConfiguration extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
         http.csrf().disable()
                 .authorizeRequests()
-                //.antMatchers("/MyRestTest/v1.0/").hasRole("ADMIN")
-                //.antMatchers("/MyRestTest/v1.0/testUSER").hasRole("USER")
-                .antMatchers("/MyRestTest/v1.0/").permitAll()
+                .antMatchers("/MyRestTest/v1.0/").permitAll() //access to root, but still needs to be an authenticated user
                 .antMatchers("/MyRestTest/v1.0/testUSER").hasAnyRole("USER", "ADMIN")
                 .antMatchers("/MyRestTest/v1.0/testADMIN").hasRole("ADMIN")
                 .and().httpBasic().realmName(R.Security.REALM).authenticationEntryPoint(getBasicAuthEntryPoint())
