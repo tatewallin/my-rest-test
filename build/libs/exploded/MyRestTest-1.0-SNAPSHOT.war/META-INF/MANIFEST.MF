@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: MyRestTest
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: req69775
+Implementation-Vendor-Id: com.mutualofomaha.gld
+Implementation-Vendor: Mutual of Omaha
+

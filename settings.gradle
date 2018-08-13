@@ -1,0 +1,6 @@
+rootProject.name = "MyRestTest"
+
+// For a multi-project build, also include sub-projects:
+// includeFlat 'MyProjectJar'
+// includeFlat 'MyProjectWar'
+// includeFlat 'MyProjectEar'

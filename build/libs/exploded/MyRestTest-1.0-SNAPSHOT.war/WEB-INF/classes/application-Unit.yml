@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    platform: oracle
+    url: jdbc:oracle:thin:@lx707:1521:dbt355
+    username: gldadmin
+    password: tg1d_adm
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+
+auth:
+  rest:
+    gld:
+      user: gldsvc
+      password:
+      key:
