@@ -6,10 +6,124 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c5b3ad-3f71-4b3a-8fc4-d773dc874368" name="Default" comment="" />
+    <list default="true" id="06c5b3ad-3f71-4b3a-8fc4-d773dc874368" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_mutualofomaha_gld___MyRestTest_1_0_SNAPSHOT_war__exploded_.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Gradle___com_mutualofomaha_gld___MyRestTest_1_0_SNAPSHOT_war__exploded_.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/MyRestTest_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/MyRestTest_main.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/MyRestTest_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/MyRestTest_test.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/application-Unit.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/Application.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/HelloWorldService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/config/SwaggerConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/controller/HelloWorldController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/dao/entity/OvpBenCaseTotals.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/dao/repo/OvpBenCaseTotalsRepository.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/pss/config/MelodyConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/security/CustomBasicAuthenticationEntryPoint.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/security/SecurityConfiguration.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/util/R$Security.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/com/mutualofomaha/gld/myresttest/util/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/classes/logback.groovy" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/aspectjweaver-1.8.13.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/cglib-nodep-3.2.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/classmate-1.3.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/groovy-all-2.4.9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/guava-18.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-core-5.0.12.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-entitymanager-5.0.12.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/hibernate-validator-5.3.6.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/jackson-core-2.8.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/jackson-databind-2.8.11.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/jandex-2.0.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/javamelody-core-1.63.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/javassist-3.21.0-GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/javax.transaction-api-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/jrobin-1.5.9.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/logback-classic-1.1.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/logback-core-1.1.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/ojdbc7-12.1.0.2.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aop-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-aspects-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-beans-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-actuator-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-autoconfigure-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-actuator-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-aop-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-data-jpa-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-jdbc-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-logging-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-security-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-boot-starter-web-1.5.13.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-context-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-core-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-data-commons-1.13.12.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-data-jpa-1.11.12.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-expression-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-jdbc-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-orm-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-security-config-4.2.6.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-security-core-4.2.6.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-security-web-4.2.6.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-tx-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-web-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/spring-webmvc-4.3.17.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/springfox-core-2.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/springfox-schema-2.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/springfox-spi-2.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/springfox-spring-web-2.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/springfox-swagger-common-2.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/springfox-swagger-ui-2.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/springfox-swagger2-2.4.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/swagger-annotations-1.5.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/swagger-models-1.5.6.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/tomcat-jdbc-8.5.31.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/tomcat-juli-8.5.31.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/libs/exploded/MyRestTest-1.0-SNAPSHOT.war/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/Application.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/HelloWorldService.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/config/SwaggerConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/controller/HelloWorldController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/dao/entity/OvpBenCaseTotals.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/dao/repo/OvpBenCaseTotalsRepository.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/pss/config/MelodyConfig.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/security/CustomBasicAuthenticationEntryPoint.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/security/SecurityConfiguration.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/util/R$Security.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/mutualofomaha/gld/myresttest/util/R.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application-Unit.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/logback.groovy" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/" />
+    <ignored path="build/" />
+    <ignored path="out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,81 +155,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SecurityConfiguration.groovy" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SecurityConfiguration.groovy" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/SecurityConfiguration.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="9" column="79" lean-forward="true" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+            <state relative-caret-position="442">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="e#51#120#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SecurityExpressionRoot.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/44f135f3c690957d55615b7b7743d5f3bde78fa1/spring-security-core-4.2.6.RELEASE.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.class">
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/core/userdetails/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+            <state relative-caret-position="6409">
+              <caret line="434" column="0" lean-forward="false" selection-start-line="434" selection-start-column="0" selection-end-line="434" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthenticatedUser.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/AuthenticatedUser.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthenticatedUsers.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/AuthenticatedUsers.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
               <folding>
-                <marker date="1533759528332" expanded="true" signature="0:104" ph="/.../" />
-                <marker date="1533759528332" expanded="false" signature="170:671" ph="..." />
-                <marker date="1533759528332" expanded="true" signature="1406:1616" ph="{...}" />
-                <marker date="1533759528332" expanded="true" signature="1673:1684" ph=" { " />
-                <marker date="1533759528332" expanded="true" signature="1723:1729" ph=" }" />
-                <marker date="1533759528332" expanded="true" signature="1795:1870" ph="{...}" />
-                <marker date="1533759528332" expanded="true" signature="1917:1928" ph=" { " />
-                <marker date="1533759528332" expanded="true" signature="1957:1963" ph=" }" />
-                <marker date="1533759528332" expanded="true" signature="2017:2028" ph=" { " />
-                <marker date="1533759528332" expanded="true" signature="2091:2097" ph=" }" />
-                <marker date="1533759528332" expanded="true" signature="2171:2586" ph="{...}" />
-                <marker date="1533759528332" expanded="true" signature="2639:2650" ph=" { " />
-                <marker date="1533759528332" expanded="true" signature="2677:2683" ph=" }" />
-                <marker date="1533759528332" expanded="false" signature="2721:2732" ph=" { " />
-                <marker date="1533759528332" expanded="false" signature="2744:2750" ph=" }" />
-                <marker date="1533759528332" expanded="false" signature="2786:2797" ph=" { " />
-                <marker date="1533759528332" expanded="false" signature="2810:2816" ph=" }" />
-                <marker date="1533759528332" expanded="false" signature="2856:2867" ph=" { " />
-                <marker date="1533759528332" expanded="false" signature="2926:2932" ph=" }" />
-                <marker date="1533759528332" expanded="false" signature="2976:2987" ph=" { " />
-                <marker date="1533759528332" expanded="false" signature="3014:3020" ph=" }" />
-                <marker date="1533759528332" expanded="false" signature="3061:3072" ph=" { " />
-                <marker date="1533759528332" expanded="false" signature="3132:3138" ph=" }" />
-                <marker date="1533759528332" expanded="true" signature="3188:3321" ph="{...}" />
-                <marker date="1533759528332" expanded="false" signature="3355:3366" ph=" { " />
-                <marker date="1533759528332" expanded="false" signature="3408:3414" ph=" }" />
-                <marker date="1533759528332" expanded="false" signature="3491:3502" ph=" { " />
-                <marker date="1533759528332" expanded="false" signature="3537:3543" ph=" }" />
-                <marker date="1533759528332" expanded="false" signature="3606:3617" ph=" { " />
-                <marker date="1533759528332" expanded="false" signature="3652:3658" ph=" }" />
-                <marker date="1533759528332" expanded="false" signature="3722:3733" ph=" { " />
-                <marker date="1533759528332" expanded="false" signature="3776:3782" ph=" }" />
-                <marker date="1533759528332" expanded="true" signature="3826:4292" ph="{...}" />
-                <marker date="1533759528332" expanded="true" signature="4361:4464" ph="{...}" />
-                <marker date="1533759528332" expanded="true" signature="4554:4685" ph="{...}" />
-                <marker date="1533759528332" expanded="true" signature="4767:4830" ph="{...}" />
-                <marker date="1533759528332" expanded="true" signature="4922:5206" ph="{...}" />
+                <element signature="e#51#125#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SecurityExpressionRoot.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-              <folding>
-                <element signature="e#2403#2404#0" expanded="true" />
-                <element signature="e#2443#2444#0" expanded="true" />
-                <element signature="e#2507#2508#0" expanded="true" />
-                <element signature="e#2559#2560#0" expanded="true" />
-                <element signature="e#2605#2606#0" expanded="true" />
-                <element signature="e#2635#2636#0" expanded="true" />
-                <element signature="e#2688#2689#0" expanded="true" />
-                <element signature="e#2747#2748#0" expanded="true" />
-                <element signature="e#3099#3100#0" expanded="true" />
-                <element signature="e#3127#3128#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1088">
+              <caret line="64" column="46" lean-forward="false" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -123,26 +235,32 @@
       <file leaf-file-name="application-Unit.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application-Unit.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomBasicAuthenticationEntryPoint.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/CustomBasicAuthenticationEntryPoint.groovy">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="e#51#97#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="527">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CRYPT_KEY</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -597,8 +715,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6124373527147" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="3050437649" />
+        <entry key="$PROJECT_DIR$" value="6124878692356" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="622705440" />
         <entry key="$PROJECT_DIR$/gradle.properties" value="3987531039" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2248745796" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="3466448785" />
@@ -616,8 +734,8 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mutualofomaha/gradle-plugins/3.2.15/483204933b5ce9edc3be9fbe79b6f3e2df51ff92/gradle-plugins-3.2.15-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mutualofomaha/gradle-plugins/3.2.15/b1ab99d53fe020595e7a4d9619963097b21c81b2/gradle-plugins-3.2.15.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mutualofomaha/gradle-plugins/3.2.19/8fe49de05963637098e987e97730be25c5bf2ab0/gradle-plugins-3.2.19-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mutualofomaha/gradle-plugins/3.2.19/aec9db5b257a7022af90f82ef437b99f0a216528/gradle-plugins-3.2.19.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.13.RELEASE/1a9bc7381de5365603377f671fe59ebad74bf246/spring-boot-gradle-plugin-1.5.13.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.5.13.RELEASE/6e8a04cdb3012d543e9128294246530ae5e7953b/spring-boot-gradle-plugin-1.5.13.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/at.bxm.gradleplugins/gradle-svntools-plugin/2.2.1/b43e4ffae01995418eae6cef7cc1039e4d6e7d3e/gradle-svntools-plugin-2.2.1-sources.jar" />
@@ -1245,17 +1363,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/Application.groovy" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/dao/entity/OvpBenCaseTotals.java" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/dao/repo/OvpBenCaseTotalsRepository.java" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/config/SwaggerConfig.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/CustomBasicAuthenticationEntryPoint.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/util/R.groovy" />
-        <option value="$PROJECT_DIR$/src/main/resources/application-Unit.yml" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/service/HelloWorldService.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/CustomBasicAuthenticationEntryPoint.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/controller/HelloWorldController.groovy" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/util/R.groovy" />
+        <option value="$PROJECT_DIR$/src/test/groovy/com/mutualofomaha/gld/myresttest/util/EncryptionDecryptionUtilTest.groovy" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/AuthenticatedUsers.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/util/EncryptionDecryptionUtil.groovy" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-Unit.yml" />
+        <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/AuthenticatedUser.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/SecurityConfiguration.groovy" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1273,11 +1396,12 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1176" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -1293,7 +1417,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1303,20 +1427,15 @@
             </path>
             <path>
               <item name="MyRestTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-rest-test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyRestTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1324,10 +1443,10 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelWidth1" value="75" />
@@ -1335,6 +1454,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
     <property name="SearchEverywhereHistoryKey" value="securityexp&#9;FILE&#9;jar://C:/Users/req69775/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/44f135f3c690957d55615b7b7743d5f3bde78fa1/spring-security-core-4.2.6.RELEASE.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.class" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1368,6 +1488,131 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="EncryptionDecryptionUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mutualofomaha.gld.myresttest.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MyRestTest_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mutualofomaha.gld.myresttest.util" />
+      <option name="MAIN_CLASS_NAME" value="com.mutualofomaha.gld.myresttest.util.EncryptionDecryptionUtilTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="EncryptionDecryptionUtilTest.test decryption" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mutualofomaha.gld.myresttest.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MyRestTest_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mutualofomaha.gld.myresttest.util" />
+      <option name="MAIN_CLASS_NAME" value="com.mutualofomaha.gld.myresttest.util.EncryptionDecryptionUtilTest" />
+      <option name="METHOD_NAME" value="test decryption" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="EncryptionDecryptionUtilTest.test encryption" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mutualofomaha.gld.myresttest.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MyRestTest_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mutualofomaha.gld.myresttest.util" />
+      <option name="MAIN_CLASS_NAME" value="com.mutualofomaha.gld.myresttest.util.EncryptionDecryptionUtilTest" />
+      <option name="METHOD_NAME" value="test encryption" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="EncryptionDecryptionUtilTest.test encryption2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mutualofomaha.gld.myresttest.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MyRestTest_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mutualofomaha.gld.myresttest.util" />
+      <option name="MAIN_CLASS_NAME" value="com.mutualofomaha.gld.myresttest.util.EncryptionDecryptionUtilTest" />
+      <option name="METHOD_NAME" value="test encryption2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="EncryptionDecryptionUtilTest.test key generation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.mutualofomaha.gld.myresttest.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MyRestTest_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.mutualofomaha.gld.myresttest.util" />
+      <option name="MAIN_CLASS_NAME" value="com.mutualofomaha.gld.myresttest.util.EncryptionDecryptionUtilTest" />
+      <option name="METHOD_NAME" value="test key generation" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -1511,10 +1756,24 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="2">
+    <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.Application" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.MyRestTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.EncryptionDecryptionUtilTest.test key generation" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.EncryptionDecryptionUtilTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.EncryptionDecryptionUtilTest.test encryption" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.EncryptionDecryptionUtilTest.test decryption" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.EncryptionDecryptionUtilTest.test encryption2" />
     </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.EncryptionDecryptionUtilTest.test encryption2" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.EncryptionDecryptionUtilTest.test decryption" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.EncryptionDecryptionUtilTest.test encryption" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.EncryptionDecryptionUtilTest.test key generation" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.EncryptionDecryptionUtilTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -1534,15 +1793,64 @@
       <workItem from="1533238752171" duration="2950000" />
       <workItem from="1533747752001" duration="38521000" />
       <workItem from="1534164343812" duration="6505000" />
-      <workItem from="1534172183379" duration="7355000" />
+      <workItem from="1534172183379" duration="13297000" />
+      <workItem from="1534262830357" duration="19588000" />
+      <workItem from="1534424790081" duration="1167000" />
     </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1534188100523</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534188100524</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated security">
+      <created>1534425931216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534425931216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="EncryptionDecryptionUtilTest - 2018.08.14 at 16h 08m 52s.xml">
+      <configuration name="EncryptionDecryptionUtilTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptionDecryptionUtilTest_test_decryption - 2018.08.14 at 16h 22m 12s.xml">
+      <configuration name="EncryptionDecryptionUtilTest.test decryption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptionDecryptionUtilTest_test_encryption - 2018.08.14 at 16h 13m 03s.xml">
+      <configuration name="EncryptionDecryptionUtilTest.test encryption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptionDecryptionUtilTest_test_encryption - 2018.08.14 at 16h 14m 11s.xml">
+      <configuration name="EncryptionDecryptionUtilTest.test encryption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptionDecryptionUtilTest_test_encryption - 2018.08.14 at 16h 18m 49s.xml">
+      <configuration name="EncryptionDecryptionUtilTest.test encryption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptionDecryptionUtilTest_test_encryption - 2018.08.14 at 16h 20m 53s.xml">
+      <configuration name="EncryptionDecryptionUtilTest.test encryption" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptionDecryptionUtilTest_test_encryption2 - 2018.08.15 at 10h 04m 17s.xml">
+      <configuration name="EncryptionDecryptionUtilTest.test encryption2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptionDecryptionUtilTest_test_encryption2 - 2018.08.15 at 10h 55m 38s.xml">
+      <configuration name="EncryptionDecryptionUtilTest.test encryption2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptionDecryptionUtilTest_test_key_generation - 2018.08.14 at 16h 09m 20s.xml">
+      <configuration name="EncryptionDecryptionUtilTest.test key generation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EncryptionDecryptionUtilTest_test_key_generation - 2018.08.14 at 16h 09m 41s.xml">
+      <configuration name="EncryptionDecryptionUtilTest.test key generation" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57662000" />
+    <option name="totallyTimeSpent" value="84359000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -1550,22 +1858,22 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35326087" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35288462" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3619565" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36153847" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884616" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29134616" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26599148" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1576,7 +1884,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298077" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884616" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1624,6 +1932,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <MESSAGE value="Updated security" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated security" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -1641,165 +1954,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/44f135f3c690957d55615b7b7743d5f3bde78fa1/spring-security-core-4.2.6.RELEASE.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.class</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/44f135f3c690957d55615b7b7743d5f3bde78fa1/spring-security-core-4.2.6.RELEASE.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.class</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/44f135f3c690957d55615b7b7743d5f3bde78fa1/spring-security-core-4.2.6.RELEASE.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.class</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/44f135f3c690957d55615b7b7743d5f3bde78fa1/spring-security-core-4.2.6.RELEASE.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.class</url>
           <line>74</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java</url>
-          <line>78</line>
+          <url>file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/SecurityConfiguration.groovy</url>
+          <line>28</line>
           <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java</url>
-          <line>74</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java</url>
-          <line>66</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java</url>
-          <line>70</line>
-          <properties />
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java</url>
-          <line>82</line>
-          <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java</url>
-          <line>95</line>
-          <properties />
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java</url>
-          <line>159</line>
-          <properties />
-          <option name="timeStamp" value="21" />
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="22" />
+      <option name="time" value="27" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/controller/HelloWorldController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/SecurityConfiguration.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="37" column="62" lean-forward="false" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-Unit.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/CustomBasicAuthenticationEntryPoint.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#51#97#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/Application.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#42#91#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/service/HelloWorldService.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/controller/HelloWorldController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/dao/entity/OvpBenCaseTotals.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/dao/repo/OvpBenCaseTotalsRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1819,9 +1989,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#42#91#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1884,16 +2052,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/banner.txt" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1936,14 +2094,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/dao/repo/OvpBenCaseTotalsRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1967,14 +2117,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/config/SwaggerConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -1987,16 +2129,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="23" column="32" lean-forward="false" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/Application.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#42#91#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2014,21 +2146,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/4.2.6.RELEASE/3bc4bf5ac19bc4ffde0aa952a421abb274e9befb/spring-security-config-4.2.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/authentication/configurers/provisioning/UserDetailsManagerConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="151" column="34" lean-forward="false" selection-start-line="151" selection-start-column="34" selection-end-line="151" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/util/R.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/4.2.6.RELEASE/3bc4bf5ac19bc4ffde0aa952a421abb274e9befb/spring-security-config-4.2.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -2036,47 +2153,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/service/HelloWorldService.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/4.2.6.RELEASE/3bc4bf5ac19bc4ffde0aa952a421abb274e9befb/spring-security-config-4.2.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/AbstractRequestMatcherRegistry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="113" column="13" lean-forward="false" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-          <folding>
-            <element signature="e#4190#4191#0" expanded="false" />
-            <element signature="e#4266#4267#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/controller/HelloWorldController.groovy">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/CustomBasicAuthenticationEntryPoint.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="e#51#97#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-Unit.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2126,29 +2213,190 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/4.2.6.RELEASE/3bc4bf5ac19bc4ffde0aa952a421abb274e9befb/spring-security-config-4.2.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/EnableWebSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="78" column="18" lean-forward="false" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/4.2.6.RELEASE/3bc4bf5ac19bc4ffde0aa952a421abb274e9befb/spring-security-config-4.2.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-783">
+          <caret line="86" column="22" lean-forward="false" selection-start-line="86" selection-start-column="22" selection-end-line="86" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/mutualofomaha/gld/myresttest/controller/HelloWorldControllerSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/CustomBasicAuthenticationEntryPoint.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/util/R.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/mutualofomaha/gld/myresttest/util/EncryptionDecryptionUtilTest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#71#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.17.RELEASE/5c37229b7d8d1f86296e133a00b8b2ffc24b6bc1/spring-beans-4.3.17.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="703" column="0" lean-forward="false" selection-start-line="703" selection-start-column="0" selection-end-line="703" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/Application.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/util/EncryptionDecryptionUtil.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/access/expression/SecurityExpressionRoot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="159" column="0" lean-forward="false" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+        <state relative-caret-position="352">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding>
-            <element signature="e#2403#2404#0" expanded="true" />
-            <element signature="e#2443#2444#0" expanded="true" />
-            <element signature="e#2507#2508#0" expanded="true" />
-            <element signature="e#2559#2560#0" expanded="true" />
-            <element signature="e#2605#2606#0" expanded="true" />
-            <element signature="e#2635#2636#0" expanded="true" />
-            <element signature="e#2688#2689#0" expanded="true" />
-            <element signature="e#2747#2748#0" expanded="true" />
-            <element signature="e#3099#3100#0" expanded="true" />
-            <element signature="e#3127#3128#0" expanded="true" />
+            <element signature="e#2605#2606#0" expanded="false" />
+            <element signature="e#2635#2636#0" expanded="false" />
+            <element signature="e#2688#2689#0" expanded="false" />
+            <element signature="e#2747#2748#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/service/HelloWorldService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/controller/HelloWorldController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="23" column="86" lean-forward="false" selection-start-line="23" selection-start-column="86" selection-end-line="23" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.6.RELEASE/e0050c9a8cfadab50987c13a1f707d406796f546/spring-security-core-4.2.6.RELEASE-sources.jar!/org/springframework/security/core/userdetails/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6409">
+          <caret line="434" column="0" lean-forward="false" selection-start-line="434" selection-start-column="0" selection-end-line="434" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="46" lean-forward="false" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/AuthenticatedUsers.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+          <folding>
+            <element signature="e#51#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/AuthenticatedUser.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-Unit.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/4.2.6.RELEASE/3bc4bf5ac19bc4ffde0aa952a421abb274e9befb/spring-security-config-4.2.6.RELEASE-sources.jar!/org/springframework/security/config/annotation/authentication/configurers/provisioning/UserDetailsManagerConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="152" column="26" lean-forward="false" selection-start-line="152" selection-start-column="26" selection-end-line="152" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/com/mutualofomaha/gld/myresttest/security/SecurityConfiguration.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="9" column="79" lean-forward="true" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#51#120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
           <folding />
         </state>
       </provider>
