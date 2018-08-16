@@ -6,9 +6,9 @@ spring:
     password: tg1d_adm
     driver-class-name: oracle.jdbc.driver.OracleDriver
 
-auth:
-  rest:
-    gld:
-      user: gldsvc
-      password:
-      key:
+rest:
+  security:
+    users:
+      - userId: gldsvc
+        password: f8nYmVw/ch3xelbgUVknLw==
+        roles: "USER"

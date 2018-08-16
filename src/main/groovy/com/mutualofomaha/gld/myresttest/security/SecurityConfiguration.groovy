@@ -1,5 +1,6 @@
 package com.mutualofomaha.gld.myresttest.security
 
+import com.mutualofomaha.gld.myresttest.util.EncryptionDecryptionUtil
 import com.mutualofomaha.gld.myresttest.util.R
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -12,6 +13,8 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.config.http.SessionCreationPolicy;
 
+//https://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/
+// https://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/
 //  https://www.baeldung.com/spring-security-expressions
 //  https://www.baeldung.com/spring-security-expressions-basic
 //  http://websystique.com/spring-security/secure-spring-rest-api-using-basic-authentication/
@@ -20,9 +23,11 @@ import org.springframework.security.config.http.SessionCreationPolicy;
 class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
     @Autowired
-    void configureGlobalSecurity(AuthenticationManagerBuilder auth) throws Exception {
-        auth.inMemoryAuthentication().withUser("bill").password("abc123").roles("ADMIN")
-        auth.inMemoryAuthentication().withUser("tom").password("abc123").roles("USER")
+    void configureGlobalSecurity(AuthenticationManagerBuilder auth, EncryptionDecryptionUtil cryptUtil, AuthenticatedUsers authenticatedUsers) throws Exception {
+
+        authenticatedUsers.users.each { user ->
+            auth.inMemoryAuthentication().withUser(user.userId).password(cryptUtil.decrypt(user.password, R.Security.CRYPT_KEY)).roles(user.roles)
+        }
     }
 
     @Override
@@ -36,6 +41,7 @@ class SecurityConfiguration extends WebSecurityConfigurerAdapter {
                 .and().sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
     }
 
+    // In case the Authentication fails [invalid/missing credentials], this entry point will get triggered. It is very important, because we don’t want [Spring Security default behavior] of redirecting to a login page on authentication failure [ We don't have a login page].
     @Bean
     public CustomBasicAuthenticationEntryPoint getBasicAuthEntryPoint() {
         return new CustomBasicAuthenticationEntryPoint()

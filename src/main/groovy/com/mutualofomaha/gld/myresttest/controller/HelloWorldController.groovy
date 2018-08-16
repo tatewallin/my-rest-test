@@ -7,6 +7,7 @@ import groovy.util.logging.Slf4j
 import io.swagger.annotations.Api
 import io.swagger.annotations.ApiOperation
 import org.springframework.beans.factory.annotation.Autowired
+import org.springframework.beans.factory.annotation.Value
 import org.springframework.web.bind.annotation.*
 
 import javax.servlet.http.HttpServletRequest
@@ -15,10 +16,14 @@ import javax.servlet.http.HttpServletRequest
 // This controllers endpoints would work with out JPA enabled
 //@MonitoredWithSpring
 @RestController
-@RequestMapping('/MyRestTest/v1.0')
+@RequestMapping('/${spring.application.name}/v1.0')
 @Api(value = 'MyRestTest', description = 'Endpoint for Hello World Resources')
 @Slf4j
 class HelloWorldController {
+
+    // Overkill, but an example of injecting a value from properties to a usable value
+    @Value('${spring.profiles.active}')
+    private final String environment
 
     @Autowired
     HelloWorldService helloWorldService
@@ -26,7 +31,7 @@ class HelloWorldController {
     @RequestMapping(value = "/", method = RequestMethod.GET)
     @ApiOperation(value="Returns a Hello message to confirm things are working")
     String helloTest(HttpServletRequest request) {
-        return "Hello.  Things are working on the Spring side.  Thanks for stopping by!!!"
+        return "Hello.  Things are working on the ${environment} Spring side.  Thanks for stopping by!!!"
     }
 
     @RequestMapping(value = "/testUSER", method = RequestMethod.GET)
