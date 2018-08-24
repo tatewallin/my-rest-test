@@ -24,7 +24,8 @@ class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
     @Autowired
     void configureGlobalSecurity(AuthenticationManagerBuilder auth, EncryptionDecryptionUtil cryptUtil, AuthenticatedUsers authenticatedUsers) throws Exception {
-        // Add users who will have access via Basic authentication
+
+        // Add users/system id that will have access via Basic Authentication
         authenticatedUsers.users.each { user ->
             auth.inMemoryAuthentication().withUser(user.userId).password(cryptUtil.decrypt(user.password, R.Security.CRYPT_KEY)).roles(user.roles)
             auth.inMemoryAuthentication().withUser("bob").password("abc123").roles("ADMIN")
@@ -33,7 +34,7 @@ class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
     @Override
     protected void configure(HttpSecurity http) throws Exception {
-        // Authorize Roles to requests
+        // Add which roles have access to RequestMappings
         http.csrf().disable()
                 .authorizeRequests()
                 .antMatchers("/MyRestTest/v1.0/").permitAll() //access to root, but still needs to be an authenticated user

@@ -1,8 +1,6 @@
 package com.mutualofomaha.gld.myresttest.controller
 
 import com.mutualofomaha.gld.myresttest.HelloWorldService
-import com.mutualofomaha.gld.myresttest.dao.entity.OvpBenCaseTotals
-import com.mutualofomaha.gld.myresttest.dao.repo.OvpBenCaseTotalsRepository
 import groovy.util.logging.Slf4j
 import io.swagger.annotations.Api
 import io.swagger.annotations.ApiOperation
@@ -37,7 +35,7 @@ class HelloWorldController {
     @RequestMapping(value = "/testUSER", method = RequestMethod.GET)
     @ApiOperation(value="Used to test SecurityConfiguration")
     String helloTest3(HttpServletRequest request) {
-        return "ADMIN and USER role users should have access"
+        return "ADMIN and USER role users should have access.  Results of a service - ${helloWorldService.doSomeCoolBusinessShit()} - ${helloWorldService.doSomeMoreCoolBusinessShit()}"
     }
 
     @RequestMapping(value = "/testADMIN", method = RequestMethod.GET)

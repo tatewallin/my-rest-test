@@ -10,8 +10,6 @@ import org.springframework.boot.web.support.SpringBootServletInitializer
 
 @SpringBootApplication
 @ServletComponentScan
-//@EnableJpaRepositories("com.mutualofomaha.gld.myresttest.dao.repo")
-//@EntityScan("com.mutualofomaha.gld.myresttest.dao.entity")
 public class Application extends SpringBootServletInitializer {
 
     public static void main(String[] args) {

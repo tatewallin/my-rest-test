@@ -1,7 +1,6 @@
 Created from Mutual Lazybones template
 Basic Spring with 
-  * default JPA database connection via spring.datasource
-    * one entity and one repo
+  * multiple JPA database connections
   * web security with different role\endpoint authorization
   * single controller with a few different endpoints 
 

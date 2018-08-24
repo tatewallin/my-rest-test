@@ -1,8 +1,10 @@
-package com.mutualofomaha.gld.myresttest.dao.entity;
+package com.mutualofomaha.gld.myresttest.dao.gldadmin.entity;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
 import java.util.Date;
+
+//https://vladmihalcea.com/the-best-way-to-map-a-composite-primary-key-with-jpa-and-hibernate/
 
 @Entity
 @Table(name="GLDT_OVP_BEN_CASE_TOTALS", schema="gldadmin")

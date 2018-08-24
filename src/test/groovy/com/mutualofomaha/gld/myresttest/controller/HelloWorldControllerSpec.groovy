@@ -87,6 +87,6 @@ class HelloWorldControllerSpec extends Specification {
         String response = restTemplate.getForObject(uriBuilder.build().encode().toUri(), String.class)
 
         then: "the default response is returned from the hello world controller"
-        response == 'Greetings from Spring Boot!'
+        response == 'Hello.  Things are working on the Unit Spring side.  Thanks for stopping by!!!'
     }
 }
