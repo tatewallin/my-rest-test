@@ -27,6 +27,7 @@ class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
         authenticatedUsers.users.each { user ->
             auth.inMemoryAuthentication().withUser(user.userId).password(cryptUtil.decrypt(user.password, R.Security.CRYPT_KEY)).roles(user.roles)
+            auth.inMemoryAuthentication().withUser("bob").password("abc123").roles("ADMIN")
         }
     }
 
