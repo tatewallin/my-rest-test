@@ -11,17 +11,19 @@ spring:
 gldadmin:
   datasource:
     platform: oracle
+    jndi-name: java:comp/env/jdbc/gldref
     url: jdbc:oracle:thin:@lx707:1521:dbt355
     username: gldadmin
-    password: tg1d_adm
+    password: v2JGWwhsTcm3RGAEqvBPTQ==
     driver-class-name: oracle.jdbc.driver.OracleDriver
 
 fineos:
   datasource:
     platform: oracle
+    jndi-name: java:comp/env/jdbc/fineosappref
     url: jdbc:oracle:thin:@lx707:1521:dbt355
     username: fineos
-    password: tf1ne08_usr
+    password: BX1L0vmaEpSoInPxR+H0Gg==
     driver-class-name: oracle.jdbc.driver.OracleDriver
 
 #fineossec:

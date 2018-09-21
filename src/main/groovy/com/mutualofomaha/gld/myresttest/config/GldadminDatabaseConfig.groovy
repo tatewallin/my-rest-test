@@ -1,11 +1,16 @@
 package com.mutualofomaha.gld.myresttest.config
 
+import com.mutualofomaha.gld.myresttest.util.EncryptionDecryptionUtil
+import com.mutualofomaha.gld.myresttest.util.R
+import org.springframework.beans.factory.annotation.Autowired
+import org.springframework.beans.factory.annotation.Value
 import org.springframework.boot.autoconfigure.jdbc.DataSourceBuilder
 import org.springframework.boot.context.properties.ConfigurationProperties
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration
 import org.springframework.context.annotation.Primary
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories
+import org.springframework.jndi.JndiTemplate
 import org.springframework.orm.jpa.JpaTransactionManager
 import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean
 import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter
@@ -22,11 +27,47 @@ import javax.sql.DataSource
 )
 class GldadminDatabaseConfig  {
 
+    @Value('${spring.profiles.active}')
+    private final String environment
+
+    private EncryptionDecryptionUtil encryptionDecryptionUtil
+
+    @Autowired
+    GldadminDatabaseConfig(EncryptionDecryptionUtil encryptionDecryptionUtil){
+        this.encryptionDecryptionUtil = encryptionDecryptionUtil
+    }
+
+    @Bean(name = "gldadminDatasourceProperties")
+    @ConfigurationProperties(prefix = "gldadmin.datasource")
+    DatasourceProperties dataSourceProperties(){
+        return new DatasourceProperties()
+    }
+
     @Primary
     @Bean(name = "gldadminDataSource")
-    @ConfigurationProperties(prefix = "gldadmin.datasource")
+    //@ConfigurationProperties(prefix = "gldadmin.datasource")
     DataSource dataSource() {
-        return DataSourceBuilder.create().build()
+        DatasourceProperties props = dataSourceProperties()
+        DataSource ds
+        if(environment == "Unit"){
+            println(environment)
+            println(props.url)
+            println(props.driverClassName)
+            println(props.username)
+            println(props.jndiName)
+            println(props.password)
+
+            ds = DataSourceBuilder.create()
+                    .username(props.username)
+                    .password(encryptionDecryptionUtil.decrypt(props.password, R.Security.CRYPT_KEY))
+                    .driverClassName(props.driverClassName)
+                    .url(props.url)
+                    .build()
+
+        }else{
+            ds =  (DataSource) new JndiTemplate().lookup(props.jndiName)
+        }
+        return ds
     }
 
     @Bean
